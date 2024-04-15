@@ -13,6 +13,6 @@
 12. Run yout project by "node index" or "node index.js" command. 
 13. Now make it an npm tool 
 12. In your index.ts file in the first line type "#! /usr/bin/env node".
-14.Run npm login in your terminal.
-15.Run npm publish 
-16.To access your project from any device type "npx name-of-package" in your command prompt.
+13. Run npm login in your terminal.
+14. Run npm publish 
+15. To access your project from any device type "npx name-of-package" in your command prompt.
