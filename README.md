@@ -15,4 +15,4 @@
 12. In your index.ts file in the first line type "#! /usr/bin/env node".
 13. Run npm login in your terminal.
 14. Run npm publish 
-15. To access your project from any device type "npx name-of-package" in your command prompt.
+15. To access your project from any device type "npx name-of-package" or "npm i name-of-package"in your command prompt.
