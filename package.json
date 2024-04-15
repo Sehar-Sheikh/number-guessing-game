@@ -1,12 +1,9 @@
 {
-  "name": "@sehar-sheikh/number-guessing-game",
+  "name": "ss25-number-guessing-game",
   "version": "1.0.0",
   "description": "This is a number guessing game",
   "main": "index.js",
   "type": "module",
-  "publishConfig": {
-    "access": "public"
-  },
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
